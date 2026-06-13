@@ -1,3 +1,3 @@
 # abdullah-demo
-this is my first git repository
+this is my first git repository.
 Author-Abdullah Ansari
